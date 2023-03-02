@@ -1,0 +1,23 @@
+create extra project deatile pages and link to projects 
+
+change some services and add other services section to look good
+
+change image for navadharaa constrution and change matter to iyt
+
+add some project pages if need and project images to detakes configuration
+
+change maps in cintac deaties and add usefull info regarding to navadgara
+
+add some arcter bloahs to navadharta site and create some blog pages to it
+
+craete some about sevrice infor refernce to archeterue matters;
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+To do :
+ - blog.html
+ - blogorg.html
+ - testimonials.html
+ - team.html
+ - etc
+ - etc

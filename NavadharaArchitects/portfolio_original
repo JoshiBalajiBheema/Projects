@@ -1,0 +1,174 @@
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio" >
+      <div class="container" >
+
+        <div class="section-title"  style="margin-top: 30px;">
+          <h2>Portfolio</h2>
+          <p>Recent Works</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">RESIDENTIAL</li>
+              <li data-filter=".filter-card">OFFICE</li>
+              <li data-filter=".filter-web">INTERIORS</li>
+              <li data-filter=".filter-con">VILLAS</li>
+
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/Timb1pro.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Timber project </h4>
+                <p>Timber wood</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/Timb1pro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/sunpro2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Sun Project</h4>
+                <p>Building appartment </p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/sunpro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="sunPro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/courgpro.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Courg Project</h4>
+                <p>Cour appartment </p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/courgpro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="CourgPro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/vanpro.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>vanastallipuram Project</h4>
+                <p>vanas appartment </p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/vanpro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="vanPro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Raghu_int/cor3.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>CProjects4</h4>
+                <p>Build Name</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/Raghu_int/cor3.jpeg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/Timb2pro.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>roundwood Project</h4>
+                <p>Tmber wood Sketch </p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/Timb2pro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="Timb2pro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/aagrapro4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Aagra Project</h4>
+                <p>From Aagra</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/aagrapro4.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="aagrapro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Raghu_int/intconf1.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>CProjects7</h4>
+                <p>Build Name</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/Raghu_int/intconf1.jpeg" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-con">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/villa1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Ishta Villa</h4>
+                <p>Villa</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/villa2.jpg" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="villas.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/nav_new/RagBuild/Timberpro.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Rounded wood Project</h4>
+                <p>Timber wood</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/nav_new/RagBuild/Timberpro.png" data-gall="portfolioGallery" class="venobox" title="Project"><i class="bx bx-plus"></i></a>
+                  <a href="RoundPro.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->

@@ -1,0 +1,275 @@
+[Next version : 3.5]
+  - To be hosted for public view with hosting services (Priority is Hostinger)
+
+Version 3.2
+  - Fixed Portolio Project image view related bugs
+  - Fixed Services section images views
+  - Updated some content 
+  - miscellaneous
+
+Version 3.1
+  - Added all projects in index and portfolio section
+  - Added images
+  - Website logo updated
+  - Category of design and builds updated to their respective field (index and portfolio project section)
+
+Version 3.0.11
+  - Future updates expected
+  - Icon changed
+  - Updated all projects
+  - Cleared messy fire 
+  - Updated Few re-directions
+  - Optimized Images
+  - Few Minor bug handling
+
+Version 3.0.0
+  - Updated Hero section, info section etc
+  - Updated Portfolio section
+  - Updated Footer
+  - Temporarily disabled CONTACT forms  
+
+Version: 2.3.1
+  - Updated Bootstrap to version 4.6.0
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 2.3.0
+  - Updated Bootstrap to version 4.5.3
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Updated the PHP Email Form to v2.3
+  - Other small fixes and improvements
+
+Version: 2.2.0
+  - Updated the PHP Email Form to v2.1
+  - Other small fixes and improvements
+  
+Version: 2.1.0
+  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
+  - Added smooth scroll on page load with hash links in the url
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Other small fixes and improvements
+  
+Version: 2.0.0
+  - The template was rebuilt from scratch with the latest Bootstrap version (4.5.0)
+  - Added SMPTP support for the contact form script (Pro)
+  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
+  
+Version: 1.0.0
+  - Initial Release
+
+
+
+
+
+
+Text Form outer website ti inject here :
+
+fer des crtiopn ;
+The skilled and collaborative workforce of 50 in-house architects, designers, 3D visualizers and engineers, is well-supported by competent structural and service consultants. ABM’s in-house MEPF team (Mechanical, Engineering, Plumbing and Firefighting) work closely with the architects and interior designers to deliver comprehensive services to each project.
+
+As Alfaz enters his elegant and eclectic workplace in Studio Millernium, Mumbai, it hums with high-octane energy, perfectly in keeping with his approach to every project. One of the firm’s many specialties is residential architecture, and his office mirrors this expertise, with its division into intimate seating and work areas 
+
+Gauri Khan strikes the perfect balance between bringing in herself, and factoring in your brief, whilst transforming a space into something that you can truly call, your oasis. She carves out her innate sense of a quiet, elegant style, and charming, yet sophisticated aesthetic, to blend it seamlessly into the lifestyle you and yours enjoy. She possesses a natural ability, combined with a professional ethos to elevate any space into an imaginative, thoughtful and compelling environment that feels bespoke, and is a natural reflection of its people.
+
+
+We take ownership in delivering rich narratives where there is a seamless transition between context, form and the inside-outside. We believe in designing buildings and spaces that are relevant, responsive and add meaning in the larger fabric through the smallest detail.
+
+
+We actively engage in integrating localised skills and resources with state-of-the art materials and technologies. Our curated network of experts ensures smooth facilitation of end-to-end services for value-engineered and timely execution of projects across scales and typologies.
+
+
+
+
+We do circular design, behaviour design and digital design.
+
+
+
+
+
+
+
+Art :
+We are an interdisciplinary team that aspires to craft spaces that address the emerging future of work, leisure and living, and the manner in which we build.
+
+Be it master plans, buildings or interiors, our Process focuses on innovation that enriches our Clients’ lives and businesses, and hopes to add value to all it touches.
+
+
+
+
+
+INTERIOR DESIGN
+
+Tanya led the design business for Indigo Living in India for almost a decade, and was the chief interior design consultant to one of India's top real estate developers : DLF, on iconic luxury properties like Magnolias, Aralias and Queen's Court. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insirational storys :
+We strongly believe a good design can elevate the quality of life. Our projects are an end result of a collaborative effort from a myriad group of people from difference backgrounds across the world. The advantage we have is that our practice is a mélange of talent: architects, fashion designers, chemical engineers, product designers, sociologist, horticulturist, etc who bring with them the richness of knowledge and distinct perspectives and experiences
+
+
+
+
+Team desciprtion :
+Aahana recently her Master of Architecture at The University of Pennsylvania (PennDesign) with a Minor in Historic Preservation. This complemented her Bachelor of Fine Arts in Interior Architecture from Rhode Island School of Design, which focused on adaptive re-use.
+
+Aashti is an architectural designer with experience designing and coordinating all phases of design and construction services. She has held key roles and collaborated on numerous large-scale, international mixed-use, corporate and commercial developments.
+
+A seasoned professional with over 30 years of experience in the field of Architectural, Interior Design Management, Construction, Project Management & Coordination, Mr. Suryaprakash Makharia is an expert in creating comprehensive architectural designs, plans, layouts, working drawings, construction details to ensure execution of projects within timelines and budgeted parameters. He has hands-on experience in preparing interior / exterior design drawings, landscape design / acoustic & illumination packages as well as other constructional details
+
+
+
+
+Comments :
+He is such an outstanding architect with modernized vision
+
+
+
+
+Blog :
+Heading :Urban Visions: How India is Shaping the Future of Housing
+
+Para :India is rethinking the future of housing through new typologies. Defined by historical and cultural influences, the country's contemporary architecture centers on discussions of how best to modernize. Built over millennia, India's housing projects are made to address diverse scales, programs and functions. Exploring a revitalized urban landscape, these modern housing projects have begun to set a new tone for the future.
+India's architecture has to mediate rapid urbanization with respect to its climate, culture, and tradition. Questions of cultural preservation are especially pertinent in post-independence India after the dominance of western influences. From Charles Correa’s body of work to Le Corbusier’s Chandigarh City, India holds a history of multicultural designs. As the second most populous country in the world, it is experiencing an growing housing demand. Balancing vernacular styles with advances in construction techniques, the following projects take a deeper look at what new residential design looks like in India.
+
+
+
+Heading :
+
+Para :
+
+
+
+
+Heading :
+
+Para :
+
+
+
+
+Heading :
+
+Para :
+
+
+
+
+Heading :
+
+Para :
+
+
+
+
+Heading :
+
+Para :
+
+
+
+SCOPE
+Concept & Space Planning 
+Interior Architecture
+Fixtures & Finishes
+Furnishing Selection & Procurement
+Documentation & Construction
+
+
+INTERIORS: TWIN PEAKS
+The interiors at Twin Peaks stemmed from a close collaboration between designer and client, both dedicated to sourcing artisanal pieces by small independent artists, thoughtfully curating a cohesive urban retreat.
+
+The soft neutral palette is accentuated with bold details, from deep hued cut glass tiles arranged to form an unexpected texture in the powder room, to furniture with intricate woven leather details, to hand selected hardware with detailed edges and piping. Casework in the Living Room features custom metal hardware built-in, every detail giving the client a personalized experience.
+
+A blue velvet sofa, leather- topped bar stools, hand woven leather carpets, carefully selected decorative light fixtures, and a collection of unique sculptures the client had picked up on a trip to Copenhagen create a diacritic space reflective of the client’s unique personality. The home weaves artist’s work into the interior architecture – a macramé guardrail in the central loft with metallic thread infuses style into every detail. Luxe velvet, wool, and leather pop against the light grey wash interior finishes.
+In offering a bold new look for modular prefab architecture, Portal provides solutions for both single family luxury and multi-family housing efficiency while substantially reducing the cost of maintenance and remodels.
+Innovative floor plans are designed to maximize efficiency and adapt to the user’s changing needs. Customizable program modules can be added or replaced along the main service spine for plug-and-play adaptability. Adjacent modules may combine to create larger rooms, while stacked modules may enable double-height spaces.
+The Portal team will work with development teams to customize multi-family residential communities that optimize connection, functionality, and lifestyle. 
+
+
+
+
+SCOPE
+Concept  & Space Planning 
+Interior Architecture
+Fixtures & Finishes
+Furnishing Selection & Procurement
+Documentation & Construction
+
+
+INTERIORS: THE SANCTUARY
+The Sanctuary seamlessly unites outdoor view gardens and patios with contemplative interior spaces, focusing indoor views on curated outdoor landscape moments. The home relies on clerestory windows and floor to ceiling sliding doors to drown the space in light, illuminating clean and simple finishes of Alaskan Yellow Cedar and polished concrete and creating a cohesive material palette connecting the home’s interior and exterior.
+
+The furniture is minimal and neutrally toned – yet bold in form – allowing the deep greens of the lush landscaping to speak first. The living, dining, and kitchen area function cohesively in an open floor plan, relying on intentional furniture groupings that maintain a sense of calm and serenity and work to prevent unnecessary clutter.
+
+The interior architecture, casework, and furnishings draw the eye horizontally, creating linear and cohesive levels of focus throughout the home. Light falls in delicate patterns on custom soft charcoal grey cabinets by Mueller Nicholls, giving the kitchen a warm and natural finish.
+The redesign also features a variety of seating styles from informal to intimate; the new Domain workspace includes private working booths, one-to-one seating, informal meeting spaces and shared tables for co-working where guests can drop in and work or have a light breakfast, a grab-and-go café with a barista coffee station and bakery. The design approach is contemporary yet inviting, layered with colour and playful elements.
+The exterior of the hotel is expressed through board-formed concrete, exposed wood structure, metal panels, and large expanses of glass. Structural elements are exposed and highlighted to enhance the sense of enclosure and warmth inside the lodge. The palette draws upon the architectural heritage of the Schweitzer basin. Guest rooms are arranged over three floors offering views of nearby Lake Pend Oreille. Balancing the hotel at the opposite end will be the hotel’s “living room,” a place for guests and families to relax and play games.
+ CLT construction was selected for its inherent beauty, sustainability, structural properties, connecting with the history of mountain architecture. This approach to articulating the structure will also be employed for the dining area and ski locker warming hut. Skiers can seek refuge from the slopes in the 50-seat restaurant or 15-seat bar or lounge areas next to a grand fireplace.
+
+SCOPE
+Concept  & Space Planning
+Interior Architecture
+Fixtures & Finishes
+Furnishing Selection & Procurement
+Documentation & Construction
+
+INTERIORS: PRESIDIO VC OFFICES
+Our interiors team introduced residential sensibilities into a new light-filled office space for a growing technology investment firm  – working with high quality materials typically found in our residential designs to soften an elegant commercial setting.
+
+The office’s public spaces are warmed by natural light sculpted down from ridge skylights, and a palette of wood and painted white steel accentuates the existing materials and the contextual landscape beyond. A soft material and color palette evokes a sense of coziness and pays homage to foggy Presidio days. Custom desks and work spaces in the private office spaces were designed and custom built to mimic residential furniture.
+
+Arriving from the elevator lobby, staff and visitors are greeted by a continuous wood-clad wall with a pivoting door that veils the reception area and features a large living wall as well as hand picked furniture from high-end designers, elevating the space. 
+The A-Frame Club is a hotel brand consisting of 20-70 cabins integrated into the natural environment. Both modern and nostalgic, the design takes cues from 1970s American ski culture and the iconic A-frame cabins of that era. The cabins are each 475 square feet and include a main floor living room, entry, bathroom, kitchenette, lofted bedroom with an Onsen-style soaking tub, and exterior deck. Each cabin is equipped with custom Malm fireplaces and vintage furnishings. The walls are lined with warm, cedarwood panels and custom millwork. Elevated on piers, each cabin is set up for views with a lighter touch on land. Tall glass windows allow natural light to permeate and highlight views.
+
+The cabins are designed for adaptability. The lofted bed is accessed by a ship’s ladder, and the living room couch folds out as an additional bed to accommodate families. Guests are in control of their space and comfort, from individual keypads for self-check-in to simple, automated controls for heating, cooling, and lighting. 
+
+
+
+
+
+SCOPE
+Concept  & Space Planning 
+Interior Architecture
+Fixtures & Finishes
+Furnishing Selection & Procurement
+Documentation & Construction
+
+
+
+INTERIORS: SALESFORCE TOWER OFFICE SPACE
+The anchor of the Salesforce Tower Office Space is a gently curving wood wrapped core, which informs  circulation and houses private meeting rooms and the kitchen. The simplicity of the plan diagram paired well with a clean, restrained, warm material palette with subtle colors that tie into company’s brand identity. Lightly colored furniture and bright white walls on the perimeter accentuate sweeping views – while sophisticated matte black furniture and felted grey walls bring professional elegance to the core of the space.
+
+The delicately curved furniture mimics the smooth interior architecture – and more broadly the iconic curves of the Salesforce tower – further accented with soft and light detailing and touches of oak, dark metal, and saddle leather. This play on materials is detailed in the door frames and hardware, which are a delicate combination of black textured metal, oak, and leather wrapped metal.
+
+Custom casework in the kitchen and conference room introduce classically residential detailing and sleek pendant ringed light fixtures suspended overhead mirror the curved seating areas below. A custom brass sculpture by Martin Bialas combines Arabic and Latin script – gracing the entryway a personal, narrative touch.
+The original roofline was retained with new vertical slot windows, sliced into wide cedar plank siding, drawing natural light indoors and enhancing floor to ceiling views. Rough sawn cedar walls permeate the interior of the 4,200 square foot residence, cladding both ceilings and walls, fusing new with the existing structure. A new open-plan reveals the angled exterior structure. By eliminating interior walls, the living, dining, and kitchen are joined together to form an open plan. Passing through, the space evokes the sense of walking along the trails, meandering through the forest.
+
+
+
+
+
+
+
+
+
+Site Description :
+
+1 The site was previously a derelict car park surrounded by five buildings of varying ages and histories. We refurbished these buildings for new uses, and transformed the car park into a new courtyard, connected to the local streets with a network of new passageways. Our interventions centred on the experience at ground floor: visitors are led through the scheme by a unifying ‘carpet’ of concrete paving, while new shopfronts have been added to the surrounding buildings, activating the perimeter of the previously dormant site.
+What makes Eccleston Yards exceptional is the degree to which it harnesses the haphazard, discordant awkwardness of both of its former state and London’s backstreet character in order to forge a vibrant new identity for its revitalised incarnation.
+
+
+3 Life at the Yards revolves around this central courtyard, which is both an anteroom to the buildings around it and a place in itself. We envisaged it as a blank canvas which could be co-opted by its user: it now hosts pop-up screenings, food festivals and sporting events, while local artists have taken occupation of the space by painting murals around its walls.
+The finish details of the original home included mitered joints and parquet floors inspired by the 45 degree plan. The bathroom renovations included details exploring dimensionally-folded tile on bathroom walls that flattened as they transition to the floors. The patterning of Helsinki marble tile in the master bathroom shifts from vertical in the shower to a mitered chevron on the floor. A finely beveled angle is integrated at the Pental countertop with profiled edge pulls. By contrast, the thick cantilevered concrete island anchors the kitchen. Original oak parquet floors were salvaged and transformed with a white stained transparent finish to reveal a hint of wood grain pattern and geometric texture.
