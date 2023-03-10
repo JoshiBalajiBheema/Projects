@@ -1,0 +1,12 @@
+import pyautogui
+import pywhatkit as wt
+
+ph_num = input('Enter your phone number : ')
+txt_msg = input('Enter text message : ')
+hour = int(input('Enter the hour of the day in 24hrs format : '))
+mins = int(input('Enter the hour of the day in 24hrs format : '))
+wt.sendwhatmsg(ph_num, txt_msg, hour, mins)
+
+pyautogui.press('enter')
+
+print("Message Sent successfully.")
