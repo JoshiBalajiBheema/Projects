@@ -1,0 +1,13 @@
+def stopAt7():
+    arrr = [1, 2, 3, 5, 6, 7, 15, 8, 9]
+    i = 0
+    stopAt7 = True
+    while stopAt7:
+        for i in arrr:
+            if i == 7:
+                stopAt7 = False
+                print("Stopped at 7")
+                break
+
+
+stopAt7()
