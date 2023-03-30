@@ -1,0 +1,13 @@
+def detectCapitalUse():
+    if word.isupper():
+        return True
+    elif word.islower():
+        return True
+    elif word.istitle():
+        return True
+    else:
+        return False
+
+
+word = input("Enter the word to detect :")
+print(detectCapitalUse())
