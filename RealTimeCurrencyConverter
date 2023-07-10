@@ -1,0 +1,12 @@
+from forex_python.converter import CurrencyRates
+
+c = CurrencyRates()
+
+amount = int(input("Enter the amount : "))
+from_currency = (input("from_currency : ")).upper()
+to_currency = (input("to_currency : ")).upper()
+
+print(f"{from_currency} to {to_currency} {amount}")
+conversion = c.convert(from_currency, to_currency, amount)
+result = (round(conversion, 2))
+print(result, to_currency)
