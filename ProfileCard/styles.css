@@ -100,7 +100,7 @@ button{
     animation-name: move;
     animation-duration: .5s;
     animation-iteration-count: infinite;
-    cursor: pointer;
+    cursor: grab;
 }
 
 .tag:hover{
@@ -108,7 +108,7 @@ button{
     animation-name: move;
     animation-duration: .5s;
     animation-iteration-count: infinite;
-    cursor: pointer;
+    cursor: grabbing;
 }
 
 @keyframes move {
